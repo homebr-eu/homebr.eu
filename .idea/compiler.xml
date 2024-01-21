@@ -4,6 +4,18 @@
     <bytecodeTargetLevel>
       <module name="articles.main" target="21" />
       <module name="articles.test" target="21" />
+      <module name="homebr.eu.articles" target="21" />
+      <module name="homebr.eu.articles.main" target="21" />
+      <module name="homebr.eu.articles.test" target="21" />
+      <module name="homebr.eu.rules" target="21" />
+      <module name="homebr.eu.rules.main" target="21" />
+      <module name="homebr.eu.rules.test" target="21" />
+      <module name="homebr.eu.storylines" target="21" />
+      <module name="homebr.eu.storylines.main" target="21" />
+      <module name="homebr.eu.storylines.test" target="21" />
+      <module name="homebr.eu.tags" target="21" />
+      <module name="homebr.eu.tags.main" target="21" />
+      <module name="homebr.eu.tags.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

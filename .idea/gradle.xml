@@ -9,37 +9,37 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/articles" />
-            <option value="$PROJECT_DIR$/rules" />
-            <option value="$PROJECT_DIR$/storylines" />
-            <option value="$PROJECT_DIR$/tags" />
+            <option value="$PROJECT_DIR$/homebreu-articles" />
+            <option value="$PROJECT_DIR$/homebreu-rules" />
+            <option value="$PROJECT_DIR$/homebreu-storylines" />
+            <option value="$PROJECT_DIR$/homebreu-tags" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/articles" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-articles" />
         <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/articles" />
+            <option value="$PROJECT_DIR$/homebreu-articles" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/rules" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-rules" />
         <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/rules" />
+            <option value="$PROJECT_DIR$/homebreu-rules" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/storylines" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-storylines" />
         <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/storylines" />
+            <option value="$PROJECT_DIR$/homebreu-storylines" />
           </set>
         </option>
       </GradleProjectSettings>
