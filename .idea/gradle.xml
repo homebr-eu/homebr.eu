@@ -1,45 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleJvm" value="21" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/homebreu-articles" />
+            <option value="$PROJECT_DIR$/homebreu-frontend" />
             <option value="$PROJECT_DIR$/homebreu-rules" />
             <option value="$PROJECT_DIR$/homebreu-storylines" />
             <option value="$PROJECT_DIR$/homebreu-tags" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-articles" />
-        <option name="gradleJvm" value="21" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/homebreu-articles" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-rules" />
-        <option name="gradleJvm" value="21" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/homebreu-rules" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/homebreu-storylines" />
-        <option name="gradleJvm" value="21" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/homebreu-storylines" />
           </set>
         </option>
       </GradleProjectSettings>

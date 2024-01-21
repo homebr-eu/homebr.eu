@@ -6,9 +6,10 @@
  * This project uses @Incubating APIs which are subject to change.
  */
 
-rootProject.name = 'homebr.eu'
+rootProject.name = 'homebreu-parent'
 
 include ':homebreu-articles'
 include ':homebreu-tags'
 include ':homebreu-rules'
 include ':homebreu-storylines'
+include ':homebreu-frontend'
