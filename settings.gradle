@@ -13,4 +13,5 @@ include 'homebreu-rules'
 include 'homebreu-storylines'
 include 'homebreu-frontend'
 include 'homebreu-common'
+include 'homebreu-users'
 

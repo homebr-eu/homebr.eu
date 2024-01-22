@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/homebreu-frontend" />
             <option value="$PROJECT_DIR$/homebreu-rules" />
             <option value="$PROJECT_DIR$/homebreu-storylines" />
+            <option value="$PROJECT_DIR$/homebreu-users" />
           </set>
         </option>
       </GradleProjectSettings>
