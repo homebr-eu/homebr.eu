@@ -8,8 +8,9 @@
 
 rootProject.name = 'homebreu-parent'
 
-include ':homebreu-articles'
-include ':homebreu-tags'
-include ':homebreu-rules'
-include ':homebreu-storylines'
-include ':homebreu-frontend'
+include 'homebreu-articles'
+include 'homebreu-rules'
+include 'homebreu-storylines'
+include 'homebreu-frontend'
+include 'homebreu-common'
+
