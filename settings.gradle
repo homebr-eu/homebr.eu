@@ -8,7 +8,7 @@
 
 rootProject.name = 'homebreu-parent'
 
-include 'homebreu-articles'
+include 'homebreu-campaigns'
 include 'homebreu-rules'
 include 'homebreu-storylines'
 include 'homebreu-frontend'

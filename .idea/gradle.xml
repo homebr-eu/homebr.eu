@@ -7,12 +7,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/homebreu-articles" />
+            <option value="$PROJECT_DIR$/homebreu-campaigns" />
             <option value="$PROJECT_DIR$/homebreu-common" />
             <option value="$PROJECT_DIR$/homebreu-frontend" />
             <option value="$PROJECT_DIR$/homebreu-rules" />
             <option value="$PROJECT_DIR$/homebreu-storylines" />
-            <option value="$PROJECT_DIR$/homebreu-tags" />
           </set>
         </option>
       </GradleProjectSettings>

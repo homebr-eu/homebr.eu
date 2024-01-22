@@ -7,6 +7,16 @@
     <list default="true" id="a93baf81-b4e2-446c-88f6-79834ff4d55c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/src/main/java/eu/homebr/articles/ArticlesApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/src/main/java/eu/homebr/articles/ArticlesApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homebreu-articles/src/test/java/eu/homebr/articles/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/homebreu-campaigns/src/test/java/eu/homebr/articles/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +211,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705865723067</updated>
-      <workItem from="1705865724461" duration="1800000" />
+      <workItem from="1705865724461" duration="2836000" />
     </task>
     <servers />
   </component>
